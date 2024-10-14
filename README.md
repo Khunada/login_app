@@ -1,3 +1,5 @@
 # login_app
 
-A new Flutter project.
+Tugas Multiplatform.
+
+![Screenshot](assets/images/screenshot.png)
